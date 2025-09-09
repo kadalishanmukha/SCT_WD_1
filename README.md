@@ -1,3 +1,4 @@
 SkillCraft Technology - Task1 : 
 
 This page features an interactive navigation bar that changes color when scrolling and highlights menu items on hover.
+⇨ Live Page: https://kadalishanmukha.github.io/SCT_WD_1/
